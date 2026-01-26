@@ -1,7 +1,6 @@
 # Leou IoT
 
-Leou IoT is a frontend web application built with React, focusing on delivering a clean, responsive, and well-structured user interface.  
-The project emphasizes modern UI practices, simplicity, and maintainability.
+LeoU’s IoT is a modern dashboard for monitoring and controlling smart devices. It features real-time data visualization, smooth animations, and an intuitive user interface.
 
 ---
 
