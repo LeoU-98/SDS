@@ -5,6 +5,7 @@
 html {
   background-color: #999;
   background-image: url(/app-bg.png);
+  background-size: cover;
 }
 
 ::-webkit-scrollbar {

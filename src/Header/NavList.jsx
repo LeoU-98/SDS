@@ -12,22 +12,22 @@ import propTypes from "prop-types";
 const navListItems = [
   {
     label: "Home",
-    to: "Home",
+    to: "home",
     icon: HomeIcon,
   },
   {
     label: "Sensor",
-    to: "Sensor",
+    to: "sensor",
     icon: BoltIcon,
   },
   {
     label: "Control",
-    to: "Control",
+    to: "control",
     icon: AdjustmentsHorizontalIcon,
   },
   {
     label: "Announcement",
-    to: "Announcement",
+    to: "announcement",
     icon: BellAlertIcon,
   },
 ];

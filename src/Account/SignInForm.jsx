@@ -22,7 +22,7 @@ export default function SignInForm() {
       formData.password === "leou"
     ) {
       setIsAuthenticated(true);
-      navigate("/sensor");
+      navigate("/home");
     }
   }
 
