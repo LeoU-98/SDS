@@ -1,8 +1,83 @@
-# React + Vite
+# Leou IoT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Leou IoT is a frontend web application built with React, focusing on delivering a clean, responsive, and well-structured user interface.  
+The project emphasizes modern UI practices, simplicity, and maintainability.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Overview
+
+This project was developed as part of a personal portfolio to demonstrate:
+- Building modern React applications
+- Implementing client-side routing
+- Designing reusable and consistent UI components
+- Applying clean and maintainable styling patterns
+
+The application is designed to be flexible and adaptable to different interface-driven use cases.
+
+---
+
+## 🚀 Live Demo
+
+The application will be available at:  
+🔗 https://leou-iot.vercel.app/
+
+---
+
+## ✨ Features
+
+- Component-based architecture
+- Client-side routing
+- Responsive design across devices
+- Reusable UI elements
+- Icon-based visual components
+- Clean and minimal interface
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- Vite
+- React Router DOM
+
+### Styling & UI
+- Tailwind CSS
+- Material Tailwind
+- Heroicons
+- React Icons
+
+### Tooling
+- ESLint
+- Prettier
+- PostCSS
+- Autoprefixer
+
+---
+
+## 📌 Usage
+
+- Navigate through the application using client-side routing
+- Interact with the interface and UI components
+- Experience responsive layouts on different screen sizes
+
+---
+
+## 🧩 Challenges & Learnings
+
+- Designing consistent and reusable UI components
+- Structuring React applications for clarity and maintainability
+- Managing layouts and navigation effectively
+- Keeping the codebase clean and readable
+
+---
+
+## 🚧 Future Improvements
+
+- Add dynamic data integration
+- Improve accessibility
+- Enhance performance and optimization
+- Expand UI features and views
+
+
